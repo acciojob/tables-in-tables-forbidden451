@@ -1,6 +1,10 @@
 
 /* Your CSS Code here. */
-.bg-colo td {
-	text-align:center;	
+.temp td{
+	text-align:center;
+	font-weight:bold;
+	background-color:rgb(0,0,0);
+	color:white;
 }
+
 
